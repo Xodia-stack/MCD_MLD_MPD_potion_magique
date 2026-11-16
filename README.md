@@ -71,7 +71,7 @@ compose    (#id_potion, #id_ingredient, quantity)
 
 ## MPD — Modèle Physique de Données
 
-![MPD](docs/mpd.png)
+![MPD]
 
 Script de création (PostgreSQL) — fichier [`script.sql`](script.sql) :
 
