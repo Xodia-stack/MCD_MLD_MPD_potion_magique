@@ -37,7 +37,7 @@ Un apothicaire souhaite référencer ses potions et savoir, pour chacune, quels 
 
 ## MCD — Modèle Conceptuel de Données
 
-![MCD]<img width="868" height="401" alt="MCD" src="https://github.com/user-attachments/assets/9c4f6f29-f5b1-44c7-9e7c-96fc5f0d8206" />
+<img width="868" height="401" alt="MCD" src="https://github.com/user-attachments/assets/9c4f6f29-f5b1-44c7-9e7c-96fc5f0d8206" />
 
 
 | Entité / Association | Attributs |
@@ -54,7 +54,7 @@ potion (1,n) ──── Compose [quantity] ──── (0,n) ingredient
 
 ## MLD — Modèle Logique de Données
 
-![MLD]<img width="1083" height="494" alt="MLD" src="https://github.com/user-attachments/assets/44e2e61c-3723-48b3-8433-6a6aa20a93db" />
+<img width="1083" height="494" alt="MLD" src="https://github.com/user-attachments/assets/44e2e61c-3723-48b3-8433-6a6aa20a93db" />
 
 
 L'association `n,n` **Compose** devient une table de jointure dont la clé primaire est composée des deux clés étrangères.
@@ -70,8 +70,6 @@ compose    (#id_potion, #id_ingredient, quantity)
 ---
 
 ## MPD — Modèle Physique de Données
-
-![MPD]
 
 Script de création (PostgreSQL) — fichier [`script.sql`](script.sql) :
 
