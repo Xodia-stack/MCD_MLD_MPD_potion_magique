@@ -37,8 +37,8 @@ Un apothicaire souhaite référencer ses potions et savoir, pour chacune, quels 
 
 ## MCD — Modèle Conceptuel de Données
 
-![MCD](<img width="868" height="401" alt="MCD" src="https://github.com/user-attachments/assets/9c4f6f29-f5b1-44c7-9e7c-96fc5f0d8206" />
-.png)
+![MCD]<img width="868" height="401" alt="MCD" src="https://github.com/user-attachments/assets/9c4f6f29-f5b1-44c7-9e7c-96fc5f0d8206" />
+
 
 | Entité / Association | Attributs |
 |---|---|
